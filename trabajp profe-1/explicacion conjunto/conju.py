@@ -1,0 +1,8 @@
+conjunto= set ([2,3,3,4])
+conjunto.remove(2)
+print (conjunto)
+conjunto2= set ([5,3,5,6])
+conjunto3=set([4,2])
+print (conjunto, conjunto2, conjunto3)
+conjunto.add(8)
+print(conjunto)

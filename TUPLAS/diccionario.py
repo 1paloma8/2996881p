@@ -1,0 +1,5 @@
+midicionario={}
+print (type())
+
+
+
