@@ -1,9 +1,9 @@
 
 import csv
 
-# Crear una lista de datos predefinidos
+
 datos = [
-    ["Juan", 25, 1.75, True],   # Nombre, Edad, Altura, Es Estudiante
+    ["Juan", 25, 1.75, True],   
     ["Ana", 30, 1.62, False],
     ["Luis", 22, 1.80, True],
     ["Maria", 28, 1.68, False],
